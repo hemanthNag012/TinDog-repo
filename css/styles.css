@@ -1,0 +1,185 @@
+
+#title {
+  background-color: #ff4c68;
+  margin-bottom: -150px;
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+  font-family: 'Roboto', sans-serif;
+}
+.navbar-item{
+  font-size: 1.5rem;
+  padding: 0px 1rem;
+}
+
+.row h1{
+  font-family:"Montserrat";
+  line-height: 1.5;
+  font-size: 3rem;
+}
+
+.container-title{
+  padding:3% 15%;
+  margin-bottom: -150px;
+}
+
+.image1{
+  transform: rotate(25deg);
+  width: 60%;
+  position: relative;
+  margin-top: 15px;
+}
+
+
+@media (max-width:1185px) {
+  .image1{
+    transform: rotate(0);
+    position: static;
+  }
+
+  #title-row{
+    padding: 2% 3%;
+    margin-bottom: 0px;
+    font-size: 2rem;
+  }
+  #title{
+    text-align: center;
+    margin-bottom: 120px;
+  }
+}
+
+
+.title-row{
+  color: white;
+  font-size: 3rem;
+}
+
+.b1{
+  color: #ef8172;
+}
+
+.b1:hover{
+  color:#ff4c68 ;
+}
+
+
+#features {
+  background-color: white;
+  z-index: 1;
+  position: relative; 
+}
+
+.features-div{
+  text-align: center;
+  padding: 0 3rem;
+  margin: 4rem 0;
+  line-height: 2rem;
+}
+
+.features-div h3{
+  font-size: 1.5rem;
+}
+.features-div p{
+  color:#8f8f8f;
+}
+
+.container-feature{
+  width:66%;
+}
+
+#testimonials {
+  background-color: #ef8172;
+  font-family: "Montserrat";
+  text-align: center;
+  color: white;
+  padding:2% 7%;
+}
+
+#testimonials h2{
+font-size: 2.5rem;
+}
+
+.test-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 15px;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-image {
+  width: 15%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#pricing {
+  text-align: center;
+  padding:7% 15%;
+}
+
+#pricing h2{
+  font-family: "Montserrat";
+}
+
+.btn-card1 {
+  width: 100%;
+}
+
+.row-pricing{
+  padding:5% 15%;
+}
+
+.pricing-colm {
+  padding:3% 2%;
+}
+
+.pricing-title{
+  font-size: 2.6rem;
+}
+
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+#cta h3{
+  font-family: 'Montserrat';
+  color: #fff;
+  font-size: 3.4rem;
+  margin:4% 0%;
+}
+
+.btnn {
+  word-spacing: 1.3rem;
+}
+
+#footer {
+  padding:7% 15%;
+  background-color: #fff;
+  text-align: center;
+  font-family: 'Roboto';
+  color: grey;
+  line-height: 2rem;
+}
+
+.fa-icons1 {
+  word-spacing: 1.3rem;
+  color: black;
+  margin:14px 0;
+}
+
+
